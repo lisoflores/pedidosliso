@@ -50,9 +50,6 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
             R.id.action_view_map -> {
                 returnNewLocation()
             }
-            android.R.id.home -> {
-                onBackPressed()
-            }
         }
         return super.onOptionsItemSelected(item)
     }
