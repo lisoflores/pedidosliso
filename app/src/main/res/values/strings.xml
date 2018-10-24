@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PedidosYaTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="change_location">Change Location</string>
+    <string name="last_location_selected">Last location selected</string>
+    <string name="done">Done</string>
+    <string name="restaurants_not_found">Restaurants not found in this location :(</string>
+</resources>
